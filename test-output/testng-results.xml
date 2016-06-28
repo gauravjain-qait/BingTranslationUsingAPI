@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21547" started-at="2016-06-24T03:40:38Z" finished-at="2016-06-24T03:40:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21547" started-at="2016-06-24T03:40:38Z" finished-at="2016-06-24T03:40:59Z">
+      <class name="bing_translation.Bing_test">
+        <test-method status="PASS" signature="test()[pri:0, instance:bing_translation.Bing_test@7946e1f4]" name="test" duration-ms="21526" started-at="2016-06-24T09:10:38Z" finished-at="2016-06-24T09:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- bing_translation.Bing_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
